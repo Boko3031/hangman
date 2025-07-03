@@ -1,0 +1,145 @@
+#letters {
+  display: flex;
+  justify-content: center;
+  gap: 5px;
+}
+.gamename {
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+}
+.fail {
+  font-size: 25px;
+  display: flex;
+  justify-content: center;
+}
+#show {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+}
+#one {
+  background-image: url(./1.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  opacity: 0;
+}
+#two {
+  background-image: url(./2.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  opacity: 0;
+}
+#three {
+  background-image: url(./3.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  opacity: 0;
+}
+#four {
+  background-image: url(./4.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  opacity: 0;
+}
+#five {
+  background-image: url(./5.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  opacity: 0;
+}
+#six {
+  background-image: url(./6.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  opacity: 0;
+}
+#seven {
+  background-image: url(./7.jpg);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+  height: 500px;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  opacity: 0;
+}
+.bigpicture {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 500px;
+}
+
+#gameover {
+  background: rgba(0, 0, 0, 0.5);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  visibility: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: aliceblue;
+}
+#WIN {
+  background: rgba(0, 0, 0, 0.5);
+  width: 100vw;
+  height: 100vh;
+  position: absolute;
+  top: 0;
+  left: 0;
+  visibility: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: aliceblue;
+}
+#timeee {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
